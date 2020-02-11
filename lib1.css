@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background: black;
+    color: yellow;
+}
+
+p{
+    text-align: justify;
+    font-size: 16px;
+    color: red;
+}
+
+img{
+    width: 250px;
+    height: 400px;
+}
