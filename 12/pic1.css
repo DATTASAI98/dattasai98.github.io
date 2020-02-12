@@ -1,0 +1,103 @@
+.col{
+    display: inline-block;
+    width: 10%;
+}
+img{
+    width:100%
+}
+@media (min-width:1100px){
+.lg12{
+    width: 99.95%;
+}
+.lg11{
+    width: 91.63%;
+}
+.lg10{
+    width: 83.3%;
+}
+.lg9{
+    width: 74.97%;
+}
+.lg8{
+    width: 66.64%;
+}
+.lg7{
+    width: 58.31%;
+}
+.lg6{
+    width: 49.98%;
+}
+.lg5{
+    width: 41.65%;
+}
+.lg4{
+    width: 33.32%;
+}
+.lg3{
+    width: 24.99%;
+}
+.lg2{
+    width: 16.66%;   
+}
+.lg1{
+    width: 8.33%;
+}
+}
+@media(min-width:700px) and (max-width:1099px){
+.med12{
+    width: 99.95%;
+}
+.med11{
+    width: 91.63%;
+}
+.med10{
+    width: 83.3%;
+}
+.med9{
+    width: 74.97%;
+}
+.med8{
+    width: 66.64%;
+}
+.med7{
+    width: 58.31%;
+}
+.med6{
+    width: 49.98%;
+}
+.med5{
+    width: 41.65%;
+}
+.med4{
+    width: 33.32%;
+}
+.med3{
+    width: 24.99%;
+}
+.med2{
+    width: 16.66%;   
+}
+.med1{
+    width: 8.33%;
+}
+}
+@media (max-width:699px){
+    .sml12, .sml11{
+        width: 91.63%;
+    }
+    .sml10, .sml9{
+        width: 74.97%;
+    }
+    .sml8, .sml7{
+        width: 58.31%;
+    }
+    .sml6, .sml5{
+        width: 41.65%;
+    }
+    .sml4, .sml3{
+        width: 24.99%;
+    }
+    .sml2, .sml1{
+        width: 8.33%;
+    }
+}
